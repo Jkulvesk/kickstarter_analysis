@@ -1,2 +1,2 @@
-# kickstarter_analysis
-Repository to place analysis for kickstarter campaigns
+# An analysis of kickstarter campaigns
+This folder contains the analysis for kickstarter campaigns. In it you will find a couple of graphs of the data as images and the spreadsheet contains a few tabs of the data sliced for analysis. I've also created a specific tab just for Edinburg. The main influencers of campaign performance seems to be the time of year of launch - best in May/June timeframe, and the goal. Too aggreesive of a goal results in a poor performing campaign.
