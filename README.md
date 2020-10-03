@@ -4,7 +4,7 @@
 This challenge demonstrates my understanding of how to manipulate and visualize data using Excel. For this challenge I used lookups, pivot tables, formulas and charts. Using the kickstarter campaign spreadsheet I visualized campaign outcomes based on their launch dates and their funding goal.
 
 ### Purpose
-
+The purpose of this project was to analyze two elements of the kickstarter campaigns - the outcomes based on goals and outcomes based on launch date.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
