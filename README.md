@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/72076683/94998251-19ad4e00-0576-11eb-8
 ### Analysis of Outcomes Based on Goals
 For this analysis, I inputed the ranges and then grabbed the correct values (plays, goal ranges and goal success factors) using the countifs function. I then summed the results and created percentages of success, failure and canceled outcomes. Then I created a chart to visually show the results. Here is a screenshot of the chart.
 
-
+https://user-images.githubusercontent.com/72076683/94998305-8cb6c480-0576-11eb-84d5-45feaf2934eb.png
 
 ### Challenges and Difficulties Encountered
 For the outcomes based on goals chart, I initially did not include 'plays' into the formula. I quickly realized this when my chart did not match the image. I also had to Google how to remove the pivot descriptors from the charts. Versions of Excel I've worked with in the past never did that. I also had to Google how to do a between range for the countif formula.
