@@ -10,12 +10,12 @@ This challenge demonstrates my understanding of how to manipulate and visualize 
 ### Analysis of Outcomes Based on Launch Date
 For this analysis, I created a pivot table and filtered on theater. I also filtered the time period to only show months by right clicking on the period and selecting months. I reordered the columns to show successful, failed and canceled outcomes and then created a chart based on the pivot table. Here is a screenshot of the chart.
 
-https://user-images.githubusercontent.com/72076683/94998251-19ad4e00-0576-11eb-8ffe-5693a4db602a.png
+![image_name](https://user-images.githubusercontent.com/72076683/94998251-19ad4e00-0576-11eb-8ffe-5693a4db602a.png)
 
 ### Analysis of Outcomes Based on Goals
 For this analysis, I inputed the ranges and then grabbed the correct values (plays, goal ranges and goal success factors) using the countifs function. I then summed the results and created percentages of success, failure and canceled outcomes. Then I created a chart to visually show the results. Here is a screenshot of the chart.
 
-https://user-images.githubusercontent.com/72076683/94998305-8cb6c480-0576-11eb-84d5-45feaf2934eb.png
+![image_name](https://user-images.githubusercontent.com/72076683/94998305-8cb6c480-0576-11eb-84d5-45feaf2934eb.png)
 
 ### Challenges and Difficulties Encountered
 For the outcomes based on goals chart, I initially did not include 'plays' into the formula. I quickly realized this when my chart did not match the image. I also had to Google how to remove the pivot descriptors from the charts. Versions of Excel I've worked with in the past never did that. I also had to Google [how to do a between range](https://www.extendoffice.com/documents/excel/2412-excel-count-cells-between-two-values.html) for the countif formula.
