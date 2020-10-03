@@ -18,8 +18,8 @@ For this analysis, I inputed the ranges and then grabbed the correct values (pla
 https://user-images.githubusercontent.com/72076683/94998305-8cb6c480-0576-11eb-84d5-45feaf2934eb.png
 
 ### Challenges and Difficulties Encountered
-For the outcomes based on goals chart, I initially did not include 'plays' into the formula. I quickly realized this when my chart did not match the image. I also had to Google how to remove the pivot descriptors from the charts. Versions of Excel I've worked with in the past never did that. I also had to Google how to do a between range for the countif formula.
-https://www.extendoffice.com/documents/excel/2412-excel-count-cells-between-two-values.html
+For the outcomes based on goals chart, I initially did not include 'plays' into the formula. I quickly realized this when my chart did not match the image. I also had to Google how to remove the pivot descriptors from the charts. Versions of Excel I've worked with in the past never did that. I also had to Google [how to do a between range](https://www.extendoffice.com/documents/excel/2412-excel-count-cells-between-two-values.html) for the countif formula.
+
 
 ## Results
 
