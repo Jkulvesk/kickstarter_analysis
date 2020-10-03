@@ -23,17 +23,21 @@ For the outcomes based on goals chart, I initially did not include 'plays' into 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- **What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
 The most successful launch periods, based on outcome (was pledged amount equal to or greater than goal), are during May - July.
 The time of year does not have much of an impact on canceled theater kickstarters with the exception of October. I would want to understand why October is never canceled.
 
-- What can you conclude about the Outcomes based on Goals?
+- **What can you conclude about the Outcomes based on Goals?**
+
 The most successful campaigns, based on meeting the goal, are those that have a goal of under $1000. Campaigns where the success is greater than the failure is where the goals are less than $15,000 (with a greater success rate of less than $5000) and between $35,000 and $44,999
 
-- What are some limitations of this dataset?
+- **What are some limitations of this dataset?**
+
 We are only looking at the number of outcomes, not the financial impact. If you look at the dollars pledged overall for theater kickstarters, the most successful months are April, September and October. The financial success in terms of dollars raised does not come through when only looking at number of outcomes based on whether the funding goal was met or not.
 
-- What are some other possible tables and/or graphs that we could create?
+- **What are some other possible tables and/or graphs that we could create?**
+
 Dollars raised by month by campaign type/subtype to see what the most financial successful campaigns were, and then I'd look at the reason for those by looking at the average number of backers, and the average dollar per backer. 
 I'm also curious why no campaigns are canceled in October, so I would look at what kind of campaigns those are compared to other months.
 
