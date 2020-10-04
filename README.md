@@ -1,7 +1,7 @@
 # Module 1 Challenge - Kickstarting with Excel
 
 ## Overview of Project
-This challenge demonstrates my understanding of how to manipulate and visualize data using Excel. For this challenge I used lookups, pivot tables, formulas and charts. Using the kickstarter campaign spreadsheet I visualized campaign outcomes based on their launch dates and their funding goal.
+This challenge demonstrates my understanding of how to manipulate and visualize data using Excel. For this challenge I used lookups, pivot tables, formulas and charts. Using the kickstarter campaign spreadsheet I visualized campaign outcomes based on their launch dates and their funding goal. Look at the spreadsheet (zip file) Kickstarter_Analysis and the folder 'Resources' that contains the chart images. I've also included the charts in this README below.
 
 ### Purpose
 The purpose of this project was to analyze two elements of the kickstarter campaigns - the outcomes based on goals and outcomes based on launch date.
